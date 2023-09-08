@@ -5,7 +5,7 @@ let an = 0.01;
 
 function let_loosesetup() {
   noCursor();
-  createCanvas(800, 800);
+  createCanvas(1920, 1080);
   
   for(let i =0;i<grössl;i++){
     arrl[i]=[];
